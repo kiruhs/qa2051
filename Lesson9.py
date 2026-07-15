@@ -125,7 +125,7 @@ import time
 #     rotated_pos = ord(c) + rot_by
 #     if rotated_pos <= ord(alphabet[-1]):
 #         return chr(rotated_pos)
-#     return chr(rotated_pos - len(alphabet) + rot_by)
+#     return chr(rotated_pos - len(alphabet)) #                       Pay attention - this value is not needed  + rot_by)
 #
 # print("".join(map(rotate_chr, "My secret message goes here.")))
 
