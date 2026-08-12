@@ -1,0 +1,20 @@
+https://nirvanajapanesespa.com/
+
+
+Mile stones
+
+1. Creating SRS - Software Requirement Specification
+
+2. Test design - STD - Software Test Design document - TC - Test Cases
+
+3. Test execution on base of STD (TC) - bugs finding and bug reports creating
+
+4. STR - Summary test report (results) - short documents resuming all project
+
+
+Type of testing:
+
+1. Functional
+2. GUI - Graphical User Interface ( Design of the web pages )
+3. Usability
+4. Portability/ Compatibility
